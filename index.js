@@ -2,7 +2,7 @@ console.log('We\'re here!');
 
 const names = [
   'Jose',
-  'Sónia',
+  'Sonia Meller',
   'Munique',
   'Gui',
   'Alvaro',
