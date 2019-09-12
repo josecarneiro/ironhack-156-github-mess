@@ -5,6 +5,7 @@ const names = [
   'Sonia',
   'Gui',
   'Alvaro',
+  'Ângela',
   'Gonçalo',
-  'Criminal Carmen Ortega'
+  'Criminal Carmen Ortega',
 ];
